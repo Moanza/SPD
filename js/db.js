@@ -21,14 +21,11 @@ const KEYS = {
 const ALL_STORE_KEYS = Object.values(KEYS);
 
 const KECAMATAN_SEED = [
-  'Babakan Madang','Bojonggede','Caringin','Cariu','Ciampea',
-  'Ciawi','Cibinong','Cibungbulang','Cigombong','Cigudeg',
-  'Cijeruk','Cileungsi','Ciomas','Cisarua','Ciseeng',
-  'Citeureup','Dramaga','Gunung Putri','Gunung Sindur','Jasinga',
-  'Jonggol','Kemang','Klapanunggal','Leuwiliang','Leuwisadeng',
-  'Megamendung','Nanggung','Pamijahan','Parung','Parung Panjang',
-  'Rancabungur','Rumpin','Sukamakmur','Sukaraja','Sukajaya',
-  'Tajurhalang','Tamansari','Tanjungsari','Tenjo','Tenjolaya',
+  'Abung Barat','Abung Kunang','Abung Pekurun','Abung Selatan','Abung Semuli',
+  'Abung Surakarta','Abung Tengah','Abung Timur','Abung Tinggi','Blambangan Pagar',
+  'Bukit Kemuning','Bunga Mayang','Hulu Sungkai','Kotabumi','Kotabumi Selatan',
+  'Kotabumi Utara','Muara Sungkai','Sungkai Barat','Sungkai Tengah','Sungkai Selatan',
+  'Sungkai Utara','Sungkai Jaya','Tanjung Raja',
 ];
 
 // Preset kota besar untuk perjalanan luar kota/luar provinsi.
