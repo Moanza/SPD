@@ -32,7 +32,7 @@ const KECAMATAN_SEED = [
 // Tarif transport PP diisi manual per kota di Data Master (default 0).
 const KOTA_TUJUAN_SEED = [
   'Jakarta','Bandung','Surabaya','Semarang','Yogyakarta',
-  'Medan','Makassar','Palembang','Surakarta (Solo)','Denpasar',
+  'Bandar Lampung','Metro','Palembang','Surakarta (Solo)','Denpasar',
 ];
 
 const DB = {
